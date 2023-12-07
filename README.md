@@ -1,5 +1,5 @@
-# Developing Scalable Apps on Azure - Course Labs
+# Webinar on Kubernetes - Course Labs
 
-Labs and exercises to help you learn fundamentals of building scalable apps on Azure.
+Labs and exercises to help you learn the core concepts of Kubernetes.
 
-Live at https://fasttrack-azure.github.io/apps-on-azure/
+Live at https://fasttrack-azure.github.io/kubernetes-webinar/

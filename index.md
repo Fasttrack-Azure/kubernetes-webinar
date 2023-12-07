@@ -1,6 +1,6 @@
-Welcome to the Apps on Azure labs.
+Welcome to the webinar for Kubernetes
 
-These are hands-on resources to help you learn building scalable apps on Azure.
+These are hands-on resources to help you learn Kubernetes.
 
 ## Pre-Requisites
 - _Software_
