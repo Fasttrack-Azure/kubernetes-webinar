@@ -10,7 +10,7 @@ These are hands-on resources to help you learn Kubernetes.
     - [Visual Studio 2022](https://visualstudio.microsoft.com/vs/)
     - [.NET SDK 7.0 (LTS)](https://dotnet.microsoft.com/en-us/download)
     - [Docker Desktop](https://www.docker.com/products/docker-desktop)
-- _Download the webinar [Slides](https://drive.google.com/file/d/1la5hYKkNjQfD7j9BnQWJa7rB0nCK5tIn/view?usp=sharing) here_
+- _Download the webinar [Slides](https://drive.google.com/file/d/1DLk1TzpzHCoZC0bNQx63m2dy0Qmdj7Vd/view?usp=sharing) here_
 
 
 # Module 1
